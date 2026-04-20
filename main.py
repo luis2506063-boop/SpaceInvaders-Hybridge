@@ -26,3 +26,15 @@ try:
 except:
     print('Music not found')
     pass
+
+def main():
+    puntaje = 0
+    run = True
+    clock = pygame.time.Clock()
+    FPS = 60
+    try:
+        mixer.music.play(-1)
+    except:
+        pass
+
+
