@@ -28,7 +28,7 @@ WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption(TITLE)
 pygame.display.set_icon(ICON_IMAGE)
 try:
-    mixer.music.load('sounds/background_song1.mp3')
+    mixer.music.load('sounds/background_song.mp3')
 
 except:
     print("No se pudo cargar el sonido")

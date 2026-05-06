@@ -1,7 +1,7 @@
 import pygame
 import os
 from ShipClass import Ship
-from Enemy import Enemy, HEIGHT, WIDTH
+from EnemyClass import Enemy, HEIGHT, WIDTH
 from BulletClass import Bullet
 
 
