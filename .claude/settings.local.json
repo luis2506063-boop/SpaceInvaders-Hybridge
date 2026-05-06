@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(py *)",
+      "PowerShell(& \"C:\\\\Proyectos\\\\SpaceInvaders-Hybridge\\\\venv\\\\Scripts\\\\pip.exe\" install -r \"C:\\\\Proyectos\\\\SpaceInvaders-Hybridge\\\\requirements.txt\")"
+    ]
+  }
+}
